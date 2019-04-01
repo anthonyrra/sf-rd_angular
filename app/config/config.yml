@@ -79,3 +79,5 @@ fos_user:
     from_email: 
         address: 'anthonyetechrakototsiferason@gmail.com'
         sender_name: Tox
+
+nelmio_api_doc: ~        
